@@ -1,0 +1,11 @@
+C:\Workspace\Prac\Background Grab\bin\Debug\Background Grab.exe.config
+C:\Workspace\Prac\Background Grab\bin\Debug\Background Grab.exe
+C:\Workspace\Prac\Background Grab\bin\Debug\Background Grab.pdb
+C:\Workspace\Prac\Background Grab\bin\Debug\EIGEMKVM.dll
+C:\Workspace\Prac\Background Grab\bin\Debug\RCMControl.dll
+C:\Workspace\Prac\Background Grab\bin\Debug\EIGEMKVM.pdb
+C:\Workspace\Prac\Background Grab\obj\Debug\Background Grab.csproj.AssemblyReference.cache
+C:\Workspace\Prac\Background Grab\obj\Debug\Background Grab.csproj.CoreCompileInputs.cache
+C:\Workspace\Prac\Background Grab\obj\Debug\Backgrou.8EFE7B6E.Up2Date
+C:\Workspace\Prac\Background Grab\obj\Debug\Background Grab.exe
+C:\Workspace\Prac\Background Grab\obj\Debug\Background Grab.pdb
